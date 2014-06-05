@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">\
+
   <head>
   <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
     <meta charset="utf-8">
@@ -15,4 +16,5 @@
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
+
 </html>
