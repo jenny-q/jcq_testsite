@@ -19,22 +19,24 @@
     <!-- container -->  
     <section class = "container">
 
-      <!-- content -->
-      <div class = "content row">
+        <!-- content -->
+        <div class = "content row">
 
-        <!-- main -->
-        <section class = "main col col-lg-8">
+          <!-- main -->
+            <section class = "main col col-lg-8">
 
-        </section>
+                  <?php include "_/components/php/header.php"; ?>
 
-        <!-- sidebar -->
-        <section class = "sidebar col col-lg-4">
+            </section>
 
-        </section>
+          <!-- sidebar -->
+            <section class = "sidebar col col-lg-4">
 
-      </div>
-      
+            </section>
 
+        </div>
+        
+                  <?php include "_/components/php/footer.php"; ?>
 
     </section>
 

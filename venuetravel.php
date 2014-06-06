@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300italic,300,400italic,700,700italic' rel='stylesheet' type='text/css'>
-    <title>Venue Travel</title>
+    <title>Venue/Travel</title>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
 
@@ -24,6 +24,10 @@
 
         <!-- main -->
         <section class = "main col col-lg-8">
+
+          <?php include "_/components/php/header.php"; ?>
+
+    
 
         </section>
 
