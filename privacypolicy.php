@@ -21,11 +21,11 @@
 
       <!-- content -->
       <div class = "content row">
+          <?php include "_/components/php/header.php"; ?>
+          <?php include "_/components/php/snippet-carousel.php"; ?>
 
         <!-- main -->
         <section class = "main col col-lg-8">
-
-          <?php include "_/components/php/header.php"; ?>
 
         </section>
 
@@ -37,7 +37,7 @@
       </div>
       
 
-
+        <?php include "_/components/php/footer.php"; ?>
     </section>
 
 
